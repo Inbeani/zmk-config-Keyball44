@@ -1,3 +1,3 @@
 My config
 
-<img src="" >
+<img src="keymap-drawer/keyball44.svg" >
